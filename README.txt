@@ -1,6 +1,6 @@
 DotNetOpenMail README
 
-INTRODUCTION
+#INTRODUCTION
 ------------------------------------------------
 
 DotNetOpenMail is a Microsoft .Net library which can be 
@@ -12,7 +12,7 @@ See http://dotnetopenmail.sourceforge.net/ for the
 latest downloads and discussion groups.
 
 
-QUICK START
+#QUICK START
 ------------------------------------------------
 
 1) Copy the DotNetOpenMail.dll and log4net dlls into
